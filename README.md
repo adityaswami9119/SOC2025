@@ -3,8 +3,8 @@
 This repository contains a Google Colab notebook for the Abnormal Event Detection in Avenue dataset.
 
 ## 📓 Notebook
+Final_Soc_Project.ipynb
 
-👉 [`Final_Project.ipynb`](Final_Project%20(1).ipynb)
 
 ## 📌 Requirements
 
