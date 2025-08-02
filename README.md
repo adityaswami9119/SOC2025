@@ -1,6 +1,6 @@
 # Final Project
 
-This repository contains a Google Colab notebook for the Abnormal Event Detection in Avenue dataset.
+This repository contains a Google Colab notebook for the Abnormal Event Detection in Avenue dataset and output video of model.
 
 ## 📓 Notebook
 Final_Soc_Project_.ipynb
